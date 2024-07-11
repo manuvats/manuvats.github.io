@@ -3407,7 +3407,7 @@ input, select, textarea {
 				-ms-transform: translateY(2rem);
 				transform: translateY(2rem);
 				opacity: 0;
-				visibility: hidden;
+				/*visibility: hidden;*/
 			}
 
 		#intro.hidden {
