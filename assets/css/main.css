@@ -3285,7 +3285,7 @@ input, select, textarea {
 
 	#intro {
 		color: #ffffff;
-		padding: 8rem 4rem 6rem 4rem ;
+		padding: 2rem 2rem 2rem 2rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3386,13 +3386,13 @@ input, select, textarea {
 				}
 
 		#intro h1 {
-			font-size: 3rem;
+			font-size: 5rem;
 			line-height: 1;
 		}
 
 		#intro p {
-			font-size: 1.00rem;
-			font-style: italic;
+			font-size: 1.75rem;
+			/*font-style: italic;*/
 			margin-top: -0.25rem;
 			text-align: center;
 		}
@@ -3757,7 +3757,7 @@ input, select, textarea {
 
 	#main {
 		background-color: #ffffff;
-		position: relative;
+		position: 0;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
